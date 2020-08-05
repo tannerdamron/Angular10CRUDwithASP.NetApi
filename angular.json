@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Ang10CrudFrontEnd"
+    }
+  },
+  "defaultProject": "Ang10CrudFrontEnd",
+  "cli": {
+    "analytics": false
+  }
 }
